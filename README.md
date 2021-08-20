@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abadatya&label=Profile%20views&color=0e75b6&style=flat" alt="abadatya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akashbadatya001" target="blank"><img src="https://img.shields.io/twitter/follow/akashbadatya001?logo=twitter&style=for-the-badge" alt="akashbadatya001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/badatyaakash1" target="blank"><img src="https://img.shields.io/twitter/follow/badatyaakash1?logo=twitter&style=for-the-badge" alt="badatyaakash1" /></a> </p>
 
 - 🌱 I’m currently learning **BCA**
 
@@ -12,8 +12,8 @@
 <a href="https://www.hackerrank.com/akashbadatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashbadatya" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/16509373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16509373" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashkumarbadatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkumarbadatya" height="30" width="40" /></a>
-  <a href="https://instagram.com/akashbadatya001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashbadatya001" height="30" width="40" /></a>
-  <a href="https://twitter.com/akashbadatya001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashbadatya001" height="30" width="40" /></a>
+  <a href="https://instagram.com/badatyaakash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badatyaakash1" height="30" width="40" /></a>
+  <a href="https://twitter.com/badatyaakash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badatyaakash1" height="30" width="40" /></a>
 
 </p>
 
