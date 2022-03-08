@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abadatya&label=Profile%20views&color=0e75b6&style=flat" alt="abadatya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/badatyaakash_" target="blank"><img src="https://img.shields.io/twitter/follow/badatyaakash_?logo=twitter&style=for-the-badge" alt="badatyaakash_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AkashBadatya01" target="blank"><img src="https://img.shields.io/twitter/follow/badatyaakash_?logo=twitter&style=for-the-badge" alt="AkashBadatya01" /></a> </p>
 
 - 🌱 I’m currently learning **BCA**
 
